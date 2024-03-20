@@ -51,8 +51,4 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/iamarunprasad/iamarunprasad/output/snake.svg" alt="Snake animation" />
-
-###
