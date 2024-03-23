@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Arun Prasad and I'm a NIIT Certified Full Stack Developer, from Ambur.</h2>
+<h2 align="left">Hi 👋! I am Arun Prasad and I'm a NIIT Certified Full Stack Developer, from Ambur.</h2>
 
 ###
 
