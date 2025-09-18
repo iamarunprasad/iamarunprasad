@@ -14,14 +14,13 @@
 </ul>
 
 <h3>Tech Stack</h3>
-<h3>Tech Stack</h3>
 <ul>
-  <li>React</li>
-  <li>Node.js</li>
-  <li>PostgreSQL</li>
-  <li>MySQL</li>
-  <li>AWS</li>
-  <li>Postman</li>
-  <li>Swagger</li>
-  <li>JavaScript</li>
+  <li><strong>Programming Languages:</strong> JavaScript, Java, TypeScript</li>
+  <li><strong>Frameworks:</strong> Spring, Spring Boot, Hibernate, Microservices, Angular, Maven</li>
+  <li><strong>Backend:</strong> Node.js, Spring Boot, Microservices</li>
+  <li><strong>Frontend:</strong> React.js, Angular, HTML5, CSS3, Bootstrap, Angular Material</li>
+  <li><strong>Tools:</strong> Postman, Swagger, Git, GitLab, GitHub, IntelliJ, Visual Studio Code</li>
+  <li><strong>Databases:</strong> MySQL, PostgreSQL, MongoDB</li>
+  <li><strong>Platforms:</strong> AWS (EC2, S3, CloudWatch), Docker, Apache Tomcat</li>
+  <li><strong>Methodologies:</strong> JWT Authentication, Microservices Architecture</li>
 </ul>
