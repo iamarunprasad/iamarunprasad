@@ -1,7 +1,7 @@
 <div style="font-family: 'Segoe UI', sans-serif; line-height: 1.6; color: #2c3e50; background-color: #f9f9f9; padding: 20px; border-radius: 10px;">
   <h2 style="color: #34495e; border-bottom: 2px solid #3498db; padding-bottom: 5px;">Arun Prasad</h2>
   
-  <p><strong style="color: #2980b9;">Full Stack Software Developer</strong> with over <strong>1.2 years</strong> of experience building scalable, business-driven applications.</p>
+  <p><strong style="color: #2980b9;">Full Stack Software Developer</strong> with over <strong>1.6+ years</strong> of experience building scalable, business-driven applications.</p>
   
   <p>Currently working at <strong style="color: #27ae60;">Tata Consumer Products Limited</strong> <span style="color: #7f8c8d;">(via Mynd Solutions)</span>, Bengaluru.</p>
   
